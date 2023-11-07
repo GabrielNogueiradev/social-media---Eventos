@@ -1,2 +1,2 @@
-# social-media---Eventos
-social media - Eventos
+# social-media - Eventos
+Esse foi o projeto onde eu aprendi a fazer uma rede social junto com mais dois colegas, nessa rede social, junto com meu grupo desenvolvi a parte dos eventos e grande parte do Media Queries da rede social. 
